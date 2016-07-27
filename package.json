@@ -1,0 +1,19 @@
+{
+  "name": "rcb-day-36",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitleyblaine/RCB-Day-36.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitleyblaine/RCB-Day-36/issues"
+  },
+  "homepage": "https://github.com/whitleyblaine/RCB-Day-36#readme"
+}
